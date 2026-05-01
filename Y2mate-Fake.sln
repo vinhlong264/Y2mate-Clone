@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y2mate-Fake", "Y2mate-Fake\Y2mate-Fake.csproj", "{B42B212C-07DD-4ED1-836F-A018FA86BAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42B212C-07DD-4ED1-836F-A018FA86BAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42B212C-07DD-4ED1-836F-A018FA86BAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42B212C-07DD-4ED1-836F-A018FA86BAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42B212C-07DD-4ED1-836F-A018FA86BAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4098365-8C3B-4DD9-8594-F182B8B8A844}
+	EndGlobalSection
+EndGlobal
